@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmourabit-mohammed&label=Profile%20views&color=0e75b6&style=flat-square" alt="elmourabit-mohammed" /> </p>
 
-- 🔭 I’m currently studying at **National School Of Applied Science Oujda (ENSAO)s**
+- 🔭 I’m currently studying at **National School Of Applied Science Oujda (ENSAO)**
 
 - 🌱 I’m currently learning **Spring Boot and Angular**
 
