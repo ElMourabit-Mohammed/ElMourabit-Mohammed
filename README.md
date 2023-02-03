@@ -38,7 +38,7 @@
  <h3 align="left"><b>💼</b> IDEs and Tools:</h3>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" title="springtools" alt="springtools" width="40" height="40"/>&nbsp;
+  <img src="https://spring.io/img/projects/spring-tool.svg" title="springtools" alt="springtools" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ_IDEA_Icon" alt="IntelliJ_IDEA_Icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
  
