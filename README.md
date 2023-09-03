@@ -74,7 +74,7 @@
     <tr>
         <td valign="top" width="33%">
             <div align="center">
-🧑‍💻 &nbsp; Programming Languages (Others):
+👨‍💻 &nbsp; Programming Languages (Others):
 
   ![Java](https://img.shields.io/badge/Java-323330.svg?style=for-the-badge&logo=java&logoColor=white)
   
