@@ -1,10 +1,14 @@
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2000&pause=1000&color=BB1112&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+El+mourabit+Mohammed;Final-Year+Software+Engineer+Student;%F0%9F%93%A2+%F0%9D%95%83%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%9C%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%94%BD%F0%9D%95%A0%F0%9D%95%A3+%F0%9F%85%9F%F0%9F%85%95%F0%9F%85%94+%F0%9D%95%80%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A1+%F0%9F%93%A2)](https://git.io/typing-svg)
+
+</div>
 
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elmourabit-mohammed&label=Profile%20views&color=0e75b6&style=flat-square" alt="elmourabit-mohammed" /> </p>
 </br>
-<h1><b>🙋‍♂️</b> About me</h1>
 
+<h1><b>🙋‍♂️</b> About me</h1>
 <img align='right' src="https://github.com/ElMourabit-Mohammed/ElMourabit-Mohammed/assets/101054444/2ff4e2c2-084e-47be-ad3a-da61659f07b2" width="150">
 
 - 🔭 I’m Currently A Final-Year Software Engineering Student At **National School Of Applied Science Oujda (ENSAO)**
@@ -20,6 +24,8 @@
 
 </br>
 </br>
+
+
 <h1> 🛠 &nbsp;Tech Stack</h1>
 <table>
     <tr>
@@ -145,12 +151,14 @@
     </tr>
 <table>
 
+
 </br>
 </br>
+
+
 <h1><b>🔥️</b>My Stats</h1>
 
 <div align="center">
-  <br>
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElMourabit-Mohammed&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="DOUHI github stats" /> 
 </div>
@@ -158,6 +166,10 @@
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElMourabit-Mohammed&theme=github_dark&show_icons=true" />
   </a>
 </div>
+
+</br>
+</br>
+
 
 <h1>🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
