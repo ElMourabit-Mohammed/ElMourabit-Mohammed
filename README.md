@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2000&pause=1000&color=BB1112&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+El+mourabit+Mohammed;Final-Year+Software+Engineer+Student;%F0%9F%93%A2+%F0%9D%95%83%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%9C%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%94%BD%F0%9D%95%A0%F0%9D%95%A3+%F0%9F%85%9F%F0%9F%85%95%F0%9F%85%94+%F0%9D%95%80%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A1+%F0%9F%93%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=800&duration=2000&pause=1000&color=BB1112&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+El+mourabit+Mohammed;Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,11 +11,11 @@
 <h1><b>🙋‍♂️</b> About me</h1>
 <img align='right' src="https://github.com/ElMourabit-Mohammed/ElMourabit-Mohammed/assets/101054444/2ff4e2c2-084e-47be-ad3a-da61659f07b2" width="150">
 
-- 🔭 I’m Currently A Final-Year Software Engineering Student At **National School Of Applied Science Oujda (ENSAO)**
+- 🔭 I’m currently a **Software Engineer at Oracle**, working as a Junior Member of Technical Staff (IC1) on the Oracle Cloud Infrastructure (OCI) team.
 
-- 🌱 I’m A Passionate **Full-Stack** Web Developer
+- 🌱 I’m A Passionate **Full-Stack** Web Developer and I’m continually exploring new technologies, including DevOps tools and Oracle’s internal systems.
 
-- 💪 I have a strong **proficiency** in **Spring Boot, Node.js, Reactjs and Angular** and enjoy working with these technologies.
+- 💪 I have a strong **proficiency** in **Spring Boot, Reactjs and Angular** and enjoy working with these technologies.
 
 - 🧰 I'm always eager to learn and practice new technologies and tools to expand my skillset.
 
